@@ -15,6 +15,7 @@
 ## Questions traitées
 
 ## Résultats 
+<img width="1188" height="668" alt="image" src="https://github.com/user-attachments/assets/41e20633-1013-423d-a5c1-b684a6f466b6" />
 
 
 
