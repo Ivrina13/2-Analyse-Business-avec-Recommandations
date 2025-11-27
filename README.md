@@ -10,6 +10,8 @@ Pour exécuter ce projet, voici les étapes que j’ai suivies :
 1. Je me suis d’abord connecté à la base de données SQL pour nettoyer et explorer les données.
 2. J’ai ensuite importé les données préparées dans Power BI.
 3. J’ai créé les visuels nécessaires pour analyser les ventes : total de pizzas vendues, nombre de commandes, répartition par catégorie et par taille, et tendances par jour et par mois.
+
+// Aperçu de l’analyse SQL //
    <img width="890" height="483" alt="image" src="https://github.com/user-attachments/assets/5d3d6e24-2bdd-4c94-b99d-7999240c43c9" />
 
 
