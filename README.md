@@ -85,7 +85,7 @@ Les ventes sont relativement stables tout au long de l'année, entre ~3 880 et ~
 5. Répartition par taille : Large 38% · Medium 32% · Small 29% · XL/XXL < 2%
 6. Évolution des ventes : Pic le vendredi (8 242 pizzas), creux le dimanche (6 035). Juillet est le meilleur mois (4 392), septembre-octobre les plus faibles (~3 880).
 
-📝 Conclusion
+## Conclusion
 Sur l'année 2015, le restaurant a écoulé près de 49 600 pizzas pour 21 350 commandes, soit un panier moyen de 2,32 pizzas par commande. Le portefeuille produit est bien équilibré entre les quatre catégories, avec une légère domination de la gamme Classic. La taille Large représente à elle seule plus d'un tiers des ventes, ce qui suggère une clientèle qui commande en groupe ou en famille.
 Les tendances temporelles révèlent une forte saisonnalité hebdomadaire : les ventes culminent en fin de semaine, avec un vendredi qui dépasse de 36 % le dimanche. À l'échelle mensuelle, l'activité reste globalement stable avec un léger pic estival (juillet) et un creux à l'automne (septembre-octobre). Ces insights peuvent orienter des actions concrètes : renforcer les effectifs les vendredis, proposer des promotions en septembre-octobre pour soutenir l'activité, et capitaliser sur les formats Large avec des offres groupées.
 
@@ -95,7 +95,6 @@ Les tendances temporelles révèlent une forte saisonnalité hebdomadaire : les 
 ![image](https://github.com/user-attachments/assets/2f6a4662-d385-453b-8f9c-6b8f0a770482)
 
 
-Quelques questions pour personnaliser la conclusion et les compétences !Il semble que le widget n'ait pas fonctionné, je vais répondre directement avec une version complète ! Dis-moi si tu veux adapter le profil ou le format.
 
 ---
 
