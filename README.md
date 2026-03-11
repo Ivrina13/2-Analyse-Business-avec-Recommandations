@@ -77,13 +77,7 @@ Les ventes sont relativement stables tout au long de l'année, entre ~3 880 et ~
 
 ## Résultats 
 📊 Analyse des ventes — Pizza Sales 2015
-(Résultats de l'analyse)
-1. 🍕 Total de pizzas vendues : 49 574
-2. 📦 Nombre de commandes : 21 350
-3. 📊 Moyenne de pizzas par commande : 2,32
-4. Répartition par catégorie : Classic 30% · Supreme 24% · Veggie 23,5% · Chicken 22%
-5. Répartition par taille : Large 38% · Medium 32% · Small 29% · XL/XXL < 2%
-6. Évolution des ventes : Pic le vendredi (8 242 pizzas), creux le dimanche (6 035). Juillet est le meilleur mois (4 392), septembre-octobre les plus faibles (~3 880).
+
 
 ---
 
